@@ -1,0 +1,90 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "search": "Search",
+    "noResults": "No results found",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "viewAll": "View All"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "favorites": "Favorites",
+    "categories": "Categories"
+  },
+  "footer": {
+    "about": "About Us",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2024 Pazaryeri. All rights reserved.",
+    "followUs": "Follow Us"
+  },
+  "home": {
+    "featuredProducts": "Featured Products",
+    "categories": "Categories",
+    "shopNow": "Shop Now"
+  },
+  "product": {
+    "addToFavorites": "Add to Favorites",
+    "removeFromFavorites": "Remove from Favorites",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "price": "Price",
+    "reviews": "reviews",
+    "description": "Description",
+    "specifications": "Specifications"
+  },
+  "favorites": {
+    "title": "My Favorites",
+    "empty": "No favorites yet",
+    "emptyDescription": "Add products you like to favorites to easily access them later.",
+    "browseProducts": "Browse Products",
+    "itemCount": "items"
+  },
+  "filters": {
+    "title": "Filters",
+    "category": "Category",
+    "priceRange": "Price Range",
+    "minPrice": "Min Price",
+    "maxPrice": "Max Price",
+    "sortBy": "Sort By",
+    "sortOptions": {
+      "newest": "Newest",
+      "priceAsc": "Price (Low to High)",
+      "priceDesc": "Price (High to Low)",
+      "rating": "Rating"
+    },
+    "clearAll": "Clear All",
+    "apply": "Apply"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "errors": {
+    "notFound": "Page Not Found",
+    "notFoundDescription": "The page you are looking for does not exist or has been moved.",
+    "serverError": "Server Error",
+    "serverErrorDescription": "Something went wrong. Please try again later.",
+    "goHome": "Go Home"
+  },
+  "meta": {
+    "siteTitle": "Pazaryeri",
+    "siteDescription": "Discover the best products and shop with confidence.",
+    "homeTitle": "Home",
+    "productsTitle": "Products",
+    "favoritesTitle": "My Favorites"
+  }
+}

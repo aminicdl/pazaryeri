@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": "cat-001",
+      "slug": "elektronik",
+      "name": "Elektronik",
+      "description": "Elektronik ürünler ve aksesuarlar",
+      "parent_id": null,
+      "image": "/images/categories/elektronik.jpg",
+      "product_count": 156
+    },
+    {
+      "id": "cat-002",
+      "slug": "telefon-aksesuar",
+      "name": "Telefon & Aksesuar",
+      "description": "Akıllı telefonlar ve aksesuarları",
+      "parent_id": "cat-001",
+      "image": "/images/categories/telefon.jpg",
+      "product_count": 89
+    },
+    {
+      "id": "cat-003",
+      "slug": "bilgisayar",
+      "name": "Bilgisayar",
+      "description": "Dizüstü ve masaüstü bilgisayarlar",
+      "parent_id": "cat-001",
+      "image": "/images/categories/bilgisayar.jpg",
+      "product_count": 67
+    },
+    {
+      "id": "cat-004",
+      "slug": "giyim",
+      "name": "Giyim",
+      "description": "Kadın, erkek ve çocuk giyim",
+      "parent_id": null,
+      "image": "/images/categories/giyim.jpg",
+      "product_count": 234
+    },
+    {
+      "id": "cat-005",
+      "slug": "erkek-giyim",
+      "name": "Erkek Giyim",
+      "description": "Erkek kıyafetleri",
+      "parent_id": "cat-004",
+      "image": "/images/categories/erkek-giyim.jpg",
+      "product_count": 112
+    }
+  ],
+  "meta": {
+    "total": 5
+  }
+}

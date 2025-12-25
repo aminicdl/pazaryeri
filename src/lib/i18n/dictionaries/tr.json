@@ -1,0 +1,90 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "retry": "Tekrar Dene",
+    "search": "Ara",
+    "noResults": "Sonuç bulunamadı",
+    "close": "Kapat",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "viewAll": "Tümünü Gör"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "products": "Ürünler",
+    "favorites": "Favoriler",
+    "categories": "Kategoriler"
+  },
+  "footer": {
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Koşulları",
+    "copyright": "© 2024 Pazaryeri. Tüm hakları saklıdır.",
+    "followUs": "Bizi Takip Edin"
+  },
+  "home": {
+    "featuredProducts": "Öne Çıkan Ürünler",
+    "categories": "Kategoriler",
+    "shopNow": "Alışverişe Başla"
+  },
+  "product": {
+    "addToFavorites": "Favorilere Ekle",
+    "removeFromFavorites": "Favorilerden Çıkar",
+    "inStock": "Stokta",
+    "outOfStock": "Stokta Yok",
+    "price": "Fiyat",
+    "reviews": "değerlendirme",
+    "description": "Açıklama",
+    "specifications": "Özellikler"
+  },
+  "favorites": {
+    "title": "Favorilerim",
+    "empty": "Henüz favori ürününüz yok",
+    "emptyDescription": "Beğendiğiniz ürünleri favorilere ekleyerek daha sonra kolayca ulaşabilirsiniz.",
+    "browseProducts": "Ürünlere Göz At",
+    "itemCount": "ürün"
+  },
+  "filters": {
+    "title": "Filtreler",
+    "category": "Kategori",
+    "priceRange": "Fiyat Aralığı",
+    "minPrice": "Min Fiyat",
+    "maxPrice": "Max Fiyat",
+    "sortBy": "Sırala",
+    "sortOptions": {
+      "newest": "En Yeni",
+      "priceAsc": "Fiyat (Düşükten Yükseğe)",
+      "priceDesc": "Fiyat (Yüksekten Düşüğe)",
+      "rating": "Puan"
+    },
+    "clearAll": "Temizle",
+    "apply": "Uygula"
+  },
+  "pagination": {
+    "previous": "Önceki",
+    "next": "Sonraki",
+    "page": "Sayfa",
+    "of": "/"
+  },
+  "theme": {
+    "light": "Açık",
+    "dark": "Koyu",
+    "system": "Sistem"
+  },
+  "errors": {
+    "notFound": "Sayfa Bulunamadı",
+    "notFoundDescription": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
+    "serverError": "Sunucu Hatası",
+    "serverErrorDescription": "Bir şeyler yanlış gitti. Lütfen daha sonra tekrar deneyin.",
+    "goHome": "Ana Sayfaya Dön"
+  },
+  "meta": {
+    "siteTitle": "Pazaryeri",
+    "siteDescription": "En iyi ürünleri keşfedin ve güvenle alışveriş yapın.",
+    "homeTitle": "Ana Sayfa",
+    "productsTitle": "Ürünler",
+    "favoritesTitle": "Favorilerim"
+  }
+}

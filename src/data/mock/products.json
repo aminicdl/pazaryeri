@@ -1,0 +1,176 @@
+{
+  "data": [
+    {
+      "id": "prod-001",
+      "slug": "iphone-15-pro-256gb",
+      "name": "iPhone 15 Pro 256GB",
+      "description": "Apple iPhone 15 Pro, A17 Pro çip, 256GB depolama, Titanyum tasarım",
+      "price": 64999,
+      "original_price": 69999,
+      "currency": "TRY",
+      "images": [
+        {
+          "id": "img-001",
+          "url": "/images/products/iphone-15-pro-1.jpg",
+          "alt": "iPhone 15 Pro ön görünüm",
+          "width": 800,
+          "height": 800
+        },
+        {
+          "id": "img-002",
+          "url": "/images/products/iphone-15-pro-2.jpg",
+          "alt": "iPhone 15 Pro arka görünüm",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "category_id": "cat-002",
+      "category_name": "Telefon & Aksesuar",
+      "category_slug": "telefon-aksesuar",
+      "brand": "Apple",
+      "rating": 4.8,
+      "review_count": 245,
+      "in_stock": true,
+      "attributes": [
+        { "name": "Renk", "value": "Doğal Titanyum" },
+        { "name": "Depolama", "value": "256GB" },
+        { "name": "RAM", "value": "8GB" }
+      ],
+      "created_at": "2024-01-15T10:00:00Z",
+      "updated_at": "2024-12-20T14:30:00Z"
+    },
+    {
+      "id": "prod-002",
+      "slug": "samsung-galaxy-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra 512GB",
+      "description": "Samsung Galaxy S24 Ultra, Snapdragon 8 Gen 3, 512GB, S Pen dahil",
+      "price": 59999,
+      "original_price": null,
+      "currency": "TRY",
+      "images": [
+        {
+          "id": "img-003",
+          "url": "/images/products/galaxy-s24-1.jpg",
+          "alt": "Samsung Galaxy S24 Ultra",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "category_id": "cat-002",
+      "category_name": "Telefon & Aksesuar",
+      "category_slug": "telefon-aksesuar",
+      "brand": "Samsung",
+      "rating": 4.7,
+      "review_count": 189,
+      "in_stock": true,
+      "attributes": [
+        { "name": "Renk", "value": "Titanium Gray" },
+        { "name": "Depolama", "value": "512GB" },
+        { "name": "RAM", "value": "12GB" }
+      ],
+      "created_at": "2024-02-01T09:00:00Z",
+      "updated_at": "2024-12-18T11:00:00Z"
+    },
+    {
+      "id": "prod-003",
+      "slug": "macbook-pro-14-m3",
+      "name": "MacBook Pro 14\" M3 Pro",
+      "description": "Apple MacBook Pro 14 inç, M3 Pro çip, 18GB RAM, 512GB SSD",
+      "price": 89999,
+      "original_price": 94999,
+      "currency": "TRY",
+      "images": [
+        {
+          "id": "img-004",
+          "url": "/images/products/macbook-pro-14-1.jpg",
+          "alt": "MacBook Pro 14 inç açık",
+          "width": 1200,
+          "height": 800
+        }
+      ],
+      "category_id": "cat-003",
+      "category_name": "Bilgisayar",
+      "category_slug": "bilgisayar",
+      "brand": "Apple",
+      "rating": 4.9,
+      "review_count": 156,
+      "in_stock": true,
+      "attributes": [
+        { "name": "İşlemci", "value": "M3 Pro" },
+        { "name": "RAM", "value": "18GB" },
+        { "name": "Depolama", "value": "512GB SSD" }
+      ],
+      "created_at": "2024-01-20T08:00:00Z",
+      "updated_at": "2024-12-15T16:00:00Z"
+    },
+    {
+      "id": "prod-004",
+      "slug": "erkek-slim-fit-gomlek",
+      "name": "Erkek Slim Fit Gömlek",
+      "description": "Premium pamuklu slim fit erkek gömleği, düğmeli yaka",
+      "price": 899,
+      "original_price": 1299,
+      "currency": "TRY",
+      "images": [
+        {
+          "id": "img-005",
+          "url": "/images/products/gomlek-1.jpg",
+          "alt": "Erkek slim fit gömlek mavi",
+          "width": 600,
+          "height": 800
+        }
+      ],
+      "category_id": "cat-005",
+      "category_name": "Erkek Giyim",
+      "category_slug": "erkek-giyim",
+      "brand": "Mavi",
+      "rating": 4.3,
+      "review_count": 78,
+      "in_stock": true,
+      "attributes": [
+        { "name": "Renk", "value": "Mavi" },
+        { "name": "Beden", "value": "M" },
+        { "name": "Malzeme", "value": "%100 Pamuk" }
+      ],
+      "created_at": "2024-03-10T12:00:00Z",
+      "updated_at": "2024-12-10T09:00:00Z"
+    },
+    {
+      "id": "prod-005",
+      "slug": "airpods-pro-2",
+      "name": "AirPods Pro 2. Nesil",
+      "description": "Apple AirPods Pro 2. nesil, USB-C şarj kutusu, aktif gürültü engelleme",
+      "price": 9499,
+      "original_price": null,
+      "currency": "TRY",
+      "images": [
+        {
+          "id": "img-006",
+          "url": "/images/products/airpods-pro-1.jpg",
+          "alt": "AirPods Pro kutusuyla",
+          "width": 800,
+          "height": 800
+        }
+      ],
+      "category_id": "cat-002",
+      "category_name": "Telefon & Aksesuar",
+      "category_slug": "telefon-aksesuar",
+      "brand": "Apple",
+      "rating": 4.6,
+      "review_count": 312,
+      "in_stock": false,
+      "attributes": [
+        { "name": "Renk", "value": "Beyaz" },
+        { "name": "Bağlantı", "value": "Bluetooth 5.3" }
+      ],
+      "created_at": "2024-02-15T14:00:00Z",
+      "updated_at": "2024-12-22T10:00:00Z"
+    }
+  ],
+  "meta": {
+    "total": 5,
+    "page": 1,
+    "perPage": 10,
+    "totalPages": 1
+  }
+}
